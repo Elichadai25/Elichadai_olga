@@ -1,9 +1,9 @@
-## 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Actio
+# 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Actio
 
-# Course Assignment: Exploring SQL Window Functions
-# GROUP NAME:The Best Vision
-# COLLABORATORS: Hatunguramye Elichadai & Niyitanga Nsengiyumva Olga
-# Instructor GitHub Username: ericmaniraguha
+Course Assignment: Exploring SQL Window Functions
+ GROUP NAME:The Best Vision
+ COLLABORATORS: Hatunguramye Elichadai & Niyitanga Nsengiyumva Olga
+ Instructor GitHub Username: ericmaniraguha
 
 
 ## 📘 Project Overview
