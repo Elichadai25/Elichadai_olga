@@ -1,1 +1,18 @@
+---SCREENSHOTS
+-- Create employees table
 
+-- Insert sample data
+Step 2: LAG() and LEAD() — Compare Values
+-- Compare each employee's salary with previous and next
+
+Step 3: RANK() vs DENSE_RANK()
+-- Ranking employees by salary within department
+
+Step 4: Top 3 Salaries per Department
+WITH ranked_emps AS (
+
+Step 5: First 2 Employees per Department by Join Date
+WITH joined_emps AS (
+
+Step 6: Aggregation with Window Functions
+-- Calculate max salary per department and overall
