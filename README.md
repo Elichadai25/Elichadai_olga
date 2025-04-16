@@ -168,7 +168,33 @@ sql-window-functions/
 ├── window_functions_assignment.sql   # Contains SQL scripts for table creation, data insertion, and window queries.
 ├── README.md                           # Provides an overview, key learnings, and collaboration details.
 └── screenshots/                        # (Optional) Folder with visuals of query results.
-#
+
+---SCREENSHOTS
+-- Create employees table
+![create table employee](https://github.com/user-attachments/assets/d38137b2-2cd5-490d-aa63-bed5e7df2ef6)
+
+-- Insert sample data
+![insert data into employees](https://github.com/user-attachments/assets/daf69039-d796-459b-ac1b-e23808e7e968)
+
+Step 2: LAG() and LEAD() — Compare Values
+-- Compare each employee's salary with previous and next
+![Lag and Lead ](https://github.com/user-attachments/assets/15632215-e892-4b99-8193-25800b3a4a3b)
+
+Step 3: RANK() vs DENSE_RANK()
+-- Ranking employees by salary within department
+![Ranking](https://github.com/user-attachments/assets/0311e9c4-f24c-447b-a86b-cf67d388f238)
+
+Step 4: Top 3 Salaries per Department
+WITH ranked_emps AS (
+![dense rank](https://github.com/user-attachments/assets/bf0c8550-afff-43dd-b12e-1a2d3486397c)
+
+Step 5: First 2 Employees per Department by Join Date
+WITH joined_emps AS (
+![query row number](https://github.com/user-attachments/assets/ea2717ba-a834-4d77-a4fd-0502e4ad7a4f)
+
+Step 6: Aggregation with Window Functions
+-- Calculate max salary per department and overall
+#![query max](https://github.com/user-attachments/assets/422793d1-47f3-4603-aea5-684ce8b7b5c1)
 
 🔚 Conclusion & Appreciation
 This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
