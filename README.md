@@ -1,7 +1,5 @@
-## 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Action
+## 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Actio
 
-
-# Hands-On SQL Window Functions: Employee Data Analysis in Action
 # Course Assignment: Exploring SQL Window Functions
 # GROUP NAME:The Best Vision
 # COLLABORATORS: Hatunguramye Elichadai & Niyitanga Nsengiyumva Olga
