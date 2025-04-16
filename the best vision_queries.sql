@@ -26,6 +26,7 @@ SELECT * FROM dual;
 
 
 Step 2: LAG() and LEAD() — Compare Values
+    
 -- Compare each employee's salary with previous and next
 SELECT
     emp_id,
@@ -53,7 +54,6 @@ FROM (
 
 
 Step 3: RANK() vs DENSE_RANK()
-
     
 -- Ranking employees by salary within department
 SELECT
