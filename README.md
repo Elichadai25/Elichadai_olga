@@ -38,7 +38,7 @@ This dataset provides a realistic structure to simulate common business scenario
 
 **Objective**: Compare each employee’s salary to the previous and next employee's salary in the same department.
 
-```sql
+sql
 LAG(salary) OVER (PARTITION BY department ORDER BY salary)
 LEAD(salary) OVER (PARTITION BY department ORDER BY salary)
 Explanation:
