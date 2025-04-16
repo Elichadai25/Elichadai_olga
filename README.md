@@ -1,4 +1,4 @@
-# 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Actio
+# 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Action
 
 # Course Assignment: Exploring SQL Window Functions
 # Group name:The Best Vision
