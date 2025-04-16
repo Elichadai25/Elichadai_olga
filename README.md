@@ -200,28 +200,9 @@ Step 6: Aggregation with Window Functions
 
 🔚 Conclusion & Appreciation
 This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting.This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
 We appreciate the opportunity to apply these concepts in a practical setting.
+
+
 
 
 
