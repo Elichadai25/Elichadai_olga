@@ -51,7 +51,7 @@ We used a CASE statement to label each comparison as HIGHER, LOWER, or EQUAL.
 
 💡 Real-life Application: Useful in performance reviews to analyze if an employee’s salary is above or below their peers.
 
-# 2️⃣ Ranking Data within a Category
+ 2️⃣ Ranking Data within a Category 
 
 Functions used: RANK(), DENSE_RANK()
 
@@ -70,7 +70,7 @@ DENSE_RANK() does not skip numbers (e.g., 1, 2, 2, 3).
 
 💡 Real-life Application: Useful for promotions and performance-based bonus distribution.
 
-# 3️⃣ Identifying Top 3 Salaries per Department
+## 3️⃣ Identifying Top 3 Salaries per Department
 
 Functions used: DENSE_RANK()
 Objective: Retrieve the top 3 highest-paid employees per department.
@@ -83,7 +83,7 @@ Using DENSE_RANK() ensures employees with the same salary are treated equally.
 
 💡 Real-life Application: Helps identify top performers in each team.
 
-# 4️⃣ Finding the Earliest Joiners
+ 4️⃣ Finding the Earliest Joiners
 
 Functions used: ROW_NUMBER()
 
@@ -97,7 +97,7 @@ ROW_NUMBER() is ideal when you want strictly the first N rows (no ties).
 
 💡 Real-life Application: Useful for tracking employee tenure and celebrating milestones.
 
-# 5️⃣ Aggregation with Window Functions
+ 5️⃣ Aggregation with Window Functions
 
 Functions used: MAX() with OVER(PARTITION BY...) and OVER()
 
@@ -120,7 +120,7 @@ The overall max is applied across all rows.
 
 💡 Real-life Application: Helps compare departmental performance with company-wide trends.
 
-# ✅ Learning Outcome
+ ✅ Learning Outcome
 
 Through this assignment, we learned how to:
 
@@ -130,7 +130,7 @@ Perform row-wise comparisons, rankings, and aggregations.
 
 Understand the difference between RANK, DENSE_RANK, and ROW_NUMBER.
 
-# 💡 Real-World Application Examples
+ 💡 Real-World Application Examples
 
 HR Analytics: Salary analysis, join-date trends, performance rankings.
 
@@ -140,7 +140,7 @@ Education: Compare student test scores, rank within classes or semesters.
 
 Finance: Track stock price changes day-by-day, compute max/min per sector.
 
-# 🧑🏽‍🤝‍🧑🏽 Collaboration Summary
+ 🧑🏽‍🤝‍🧑🏽 Collaboration Summary
 
 We worked collaboratively on:
 
@@ -149,14 +149,14 @@ Query writing and explanation
 Documentation and GitHub version control
 Both team members contributed equally. Our GitHub commit history reflects this.
 
-#  🔗 Repository Structure
+  🔗 Repository Structure
 
 sql-window-functions/
 ├── window_functions_assignment.sql   # Contains SQL scripts for table creation, data insertion, and window queries.
 ├── README.md                           # Provides an overview, key learnings, and collaboration details.
 └── screenshots/                        # (Optional) Folder with visuals of query results.
 
-#  🔚 Conclusion
+ 🔚 Conclusion
 This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
 
 
