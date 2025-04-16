@@ -1,4 +1,5 @@
 Let’s Start Writing the SQL Script
+    
 Step 1: Create Table and Insert Data
 
 -- Create employees table
@@ -53,6 +54,7 @@ FROM (
 
 Step 3: RANK() vs DENSE_RANK()
 
+    
 -- Ranking employees by salary within department
 SELECT
     emp_id,
