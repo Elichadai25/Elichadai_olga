@@ -1,4 +1,4 @@
-# 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Actio
+# 📊 SQL Window Functions Project: Hands-On Employee Data Analysis in Action
 
 # Course Assignment: Exploring SQL Window Functions
 # Group name:The Best Vision
@@ -200,7 +200,7 @@ Step 6: Aggregation with Window Functions
 
 🔚 Conclusion & Appreciation
 This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
-We appreciate the opportunity to apply these concepts in a practical setting
+We appreciate the opportunity to apply these concepts in a practical setting.
 
 
 
