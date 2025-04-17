@@ -3,12 +3,9 @@
 # -- Create employees table
 
 "C:\Users\USER\Downloads\WhatsApp Image 2025-04-17 at 00.29.52.jpeg"
-
 # -- Insert sample data
 
 "C:\Users\USER\Downloads\WhatsApp Image 2025-04-17 at 00.29.51 (2).jpeg"
-
 # -- Compare each employee's salary with previous and next
-
 "C:\Users\USER\Downloads\WhatsApp Image 2025-04-17 at 00.29.51 (1).jpeg"
 "C:\Users\USER\Desktop\WhatsApp Image 2024-04-21 at 10.41.16 AM.jpeg"
