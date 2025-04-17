@@ -32,7 +32,7 @@ This dataset provides a realistic structure to simulate common business scenario
 
 ## 🔍 Tasks and Explanations
 
-### 1️⃣ Compare Values with Previous or Next Records
+### 1️⃣ Compare Values with Previous or Next Records:
 
 **Functions used**: `LAG()`, `LEAD()`
 
@@ -52,7 +52,7 @@ We used a CASE statement to label each comparison as HIGHER, LOWER, or EQUAL.
 💡 Real-life Application: Useful in performance reviews to analyze if an employee’s salary is above or below their peers.
 #
 
-2️⃣ Ranking Data within a Category
+2️⃣ Ranking Data within a Category:
 Functions used: RANK(), DENSE_RANK()
 
 Objective: Rank employees by salary within each department.
@@ -71,7 +71,7 @@ DENSE_RANK() does not skip numbers (e.g., 1, 2, 2, 3).
 💡 Real-life Application: Useful for promotions and performance-based bonus distribution.
 #
 
-3️⃣ Identifying Top 3 Salaries per Department
+3️⃣ Identifying Top 3 Salaries per Department:
 Functions used: DENSE_RANK()
 
 Objective: Retrieve the top 3 highest-paid employees per department.
@@ -85,7 +85,7 @@ Using DENSE_RANK() ensures employees with the same salary are treated equally.
 💡 Real-life Application: Helps identify top performers in each team.
 #
 
-4️⃣ Finding the Earliest Joiners
+4️⃣ Finding the Earliest Joiners:
 Functions used: ROW_NUMBER()
 
 Objective: Retrieve the first 2 employees who joined in each department based on the join_date.
@@ -100,7 +100,7 @@ ROW_NUMBER() is ideal when you want strictly the first N rows (no ties).
 
 
 
- 5️⃣ Aggregation with Window Functions
+ 5️⃣ Aggregation with Window Functions:
 
 Functions used: MAX() with OVER(PARTITION BY...) and OVER()
 
@@ -173,32 +173,32 @@ sql-window-functions/
 ---SCREENSHOTS
 -- Create employees table
 
-![create table employee](https://github.com/user-attachments/assets/d38137b2-2cd5-490d-aa63-bed5e7df2ef6)
+![create table employee](https://github.com/user-attachments/assets/d38137b2-2cd5-490d-aa63-bed5e7df2ef6).
 
 -- Insert sample data
-![insert data into employees](https://github.com/user-attachments/assets/daf69039-d796-459b-ac1b-e23808e7e968)
+![insert data into employees](https://github.com/user-attachments/assets/daf69039-d796-459b-ac1b-e23808e7e968).
 
 Step 2: LAG() and LEAD() — Compare Values
 -- Compare each employee's salary with previous and next
-![Lag and Lead ](https://github.com/user-attachments/assets/15632215-e892-4b99-8193-25800b3a4a3b)
+![Lag and Lead ](https://github.com/user-attachments/assets/15632215-e892-4b99-8193-25800b3a4a3b).
 
 Step 3: RANK() vs DENSE_RANK()
 -- Ranking employees by salary within department
-![Ranking](https://github.com/user-attachments/assets/0311e9c4-f24c-447b-a86b-cf67d388f238)
+![Ranking](https://github.com/user-attachments/assets/0311e9c4-f24c-447b-a86b-cf67d388f238).
 
 Step 4: Top 3 Salaries per Department
 WITH ranked_emps AS (
-![dense rank](https://github.com/user-attachments/assets/bf0c8550-afff-43dd-b12e-1a2d3486397c)
+![dense rank](https://github.com/user-attachments/assets/bf0c8550-afff-43dd-b12e-1a2d3486397c).
 
 Step 5: First 2 Employees per Department by Join Date
 WITH joined_emps AS (
-![query row number](https://github.com/user-attachments/assets/ea2717ba-a834-4d77-a4fd-0502e4ad7a4f)
+![query row number](https://github.com/user-attachments/assets/ea2717ba-a834-4d77-a4fd-0502e4ad7a4f).
 
 Step 6: Aggregation with Window Functions
 -- Calculate max salary per department and overall
-#![query max](https://github.com/user-attachments/assets/422793d1-47f3-4603-aea5-684ce8b7b5c1)
+#![query max](https://github.com/user-attachments/assets/422793d1-47f3-4603-aea5-684ce8b7b5c1).
 
-🔚 Conclusion & Appreciation
+🔚 Conclusion & Appreciation:
 This project highlighted the real-world significance of SQL window functions and provided hands-on experience in building collaborative, well-structured, and fully documented SQL solutions.
 We appreciate the opportunity to apply these concepts in a practical setting.
 
